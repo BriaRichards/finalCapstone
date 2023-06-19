@@ -1,5 +1,5 @@
 # Capstone Project 1 - Finance Calculator
-*This is a finance calculator that allows you to calculate the amount of interest on your investment or the monthly repayment amount on a home loan (bond).
+*This is a finance calculator that allows you to calculate the amount of interest on your investment or the monthly repayment amount on a home loan (bond).*
 
 ## Instructions
 
@@ -23,4 +23,4 @@
 ###### Installation Requirements
 
 - Python 3
-- Math library (already included in the Python standard library)
+- Math library 
